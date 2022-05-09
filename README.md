@@ -7,7 +7,7 @@
 </ul>
 
 <h2>Technologies</h2>
-HTML | CSS | CSS Tailwind | JavaScript 
+HTML, CSS, CSS Tailwind and JavaScript.
 
 <h2>How to reach me</h2>
 <p>Gmail: <a href="mailto:annabeatrizp999@gmail.com">annabeatrizp999@gmail.com</a> 📧</p>
