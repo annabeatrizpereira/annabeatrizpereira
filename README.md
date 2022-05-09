@@ -1,8 +1,10 @@
-### Hi there! Welcome to my profile 👋
+<h1>Hi there! Welcome to my profile 👋 </h1>
 
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Web development
-- 💬 Ask me about anything!
-- 📫 How to reach me: annabeatrizp999@gmail.com 
-- 😄 Pronouns: She/her
+<ul> 
+  <li> Graduated in a technical program in Systems Development </li>
+  <li> Currently learning React Native and TypeScript </li>
+</ul>
 
+<h2>How to reach me</h2>
+<p>Gmail: <a href="mailto:annabeatrizp999@gmail.com">annabeatrizp999@gmail.com</a> 📧</p>
+<p>Linkedin: <a href="linkedin.com/in/anna-beatriz-pereira-9686b0233/">Anna Beatriz Pereira</a> 💼</p>
