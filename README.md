@@ -7,12 +7,7 @@
 </ul>
 
 <h2>Technologies</h2>
-![image](https://img.shields.io/badge/-JavaScript-ff69b4)
-![image](https://img.shields.io/badge/-HTML-success)
-![image](https://img.shields.io/badge/-CSS-blue)
-![image](https://img.shields.io/badge/-TailwindCSS-lightgrey)
-![image](https://img.shields.io/badge/-Git-green)
-![image](https://img.shields.io/badge/-Github-important)
+HTML, CSS, TailwindCSS, JavaScript, Git and Github.
 
 <h2>How to reach me</h2>
 <p>Gmail: <a href="mailto:annabeatrizp999@gmail.com">annabeatrizp999@gmail.com</a> 📧</p>
