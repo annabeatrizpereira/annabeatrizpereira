@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! Welcome to my profile 👋 <br><br>- Graduating Computer Engineering <br>- Graduated in a technical course in Systems Development<br>- Currently learning React Native and TypeScript<br>- Focused on Web Development!<br><br>How to reach me<br>- Gmail: annabeatrizp999@gmail.com 📧<br>
+Hi there! Welcome to my profile 👋 <br><br>- Graduating Computer Engineering <br>- Graduated in a technical course in Systems Development<br>- Currently learning React Native and TypeScript<br>- Focused on Web Development!<br><br>How to reach me<br>- Gmail: annabeatrizp999@gmail.com 📧<br>- Linkedin: <a href="https://www.linkedin.com/in/anna-beatriz-pereira-9686b0233/">Anna Beatriz Pereira</a>
 
 
 ## 🌐 Socials:
