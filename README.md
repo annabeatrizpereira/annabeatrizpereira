@@ -13,7 +13,7 @@ Atualmente, estou me especializando em **Desenvolvimento Web**, com foco em **Re
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=annabeatrizpereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Entre em contato!
-**Gmail:** annabeatrizp999@gmail.com 📧
-**- Linkedin:** <a href="https://www.linkedin.com/in/anna-beatriz-pereira-9686b0233/">Anna Beatriz Pereira</a> 🌐 <br>
+**Gmail:** annabeatrizp999@gmail.com 📧 <br>
+**Linkedin:** <a href="https://www.linkedin.com/in/anna-beatriz-pereira-9686b0233/">Anna Beatriz Pereira</a> 🌐 <br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
